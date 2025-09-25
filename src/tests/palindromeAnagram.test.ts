@@ -1,4 +1,4 @@
-import { canFormPalindrome } from "../utils/palindromeAnagram";
+import { canFormPalindrome } from "../utils/utils";
 
 describe("canFormPalindrome", () => {
   it("deve retornar true para string vazia", () => {

@@ -1,4 +1,4 @@
-import { standardizeNames } from "../utils/standardizeNames";
+import { standardizeNames } from "../utils/utils";
 
 describe("standardizeNames", () => {
   it("deve retornar array vazio quando entrada for vazia", () => {

@@ -1,4 +1,4 @@
-import { groupByCity } from '../utils/groupingByCity';
+import { groupByCity } from '../utils/utils';
 
 type Person = { name: string; city: string };
 
